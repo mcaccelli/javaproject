@@ -115,10 +115,10 @@ public class FrameLogin extends javax.swing.JFrame {
     }//GEN-LAST:event_pswSenhaActionPerformed
 
     private void btnEntrarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnEntrarActionPerformed
-        lblUsuario.getText();
+        txtUsuario.getText();
         pswSenha.getPassword();
-        if (usrDao.checkLogin(lblUsuario.getText(), String.valueOf(pswSenha.getPassword()))){
-            this.usuario = new Usuario(lblUsuario.getText(), String.valueOf(pswSenha.getPassword()));
+        if (usrDao.checkLogin(txtUsuario.getText(), String.valueOf(pswSenha.getPassword()))){
+            this.usuario = new Usuario(txtUsuario.getText(), String.valueOf(pswSenha.getPassword()));
             FrameLog log = new FrameLog(this.usuario);
             log.setVisible(true);
         } else {

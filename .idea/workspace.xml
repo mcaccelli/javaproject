@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="231e40f1-21be-4273-8544-44026b83a39e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Projeto.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/built-jar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/FrameGerente.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/FrameLog.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/FrameLogin.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/FrameUsuario.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClienteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Corrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrameGerente.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrameGerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrameLog.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrameLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrameUsuario.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrameUsuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Poupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Salario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UsuarioDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FrameLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrameLogin.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="201eS5SF5W8A3vgmwwQaQq1XboZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="231e40f1-21be-4273-8544-44026b83a39e" name="Changes" comment="" />
+      <created>1635216518650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635216518650</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
